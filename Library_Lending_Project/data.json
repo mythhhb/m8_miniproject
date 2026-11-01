@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "item_id": "101",
+            "title": "science",
+            "item_type": "Book",
+            "available": true
+        }
+    ],
+    "members": [],
+    "loans": []
+}
